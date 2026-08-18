@@ -131,13 +131,6 @@ because they are copyrighted. This research archive shares only the paper, small
 derived annotation datasets, documentation, and generated visualizations. Please
 consult [the data documentation](data/README.md) before reusing the derived files.
 
-## Citation
-
-If you refer to this pilot study, please cite the course paper:
-
-> Wang, Junyang. "Reconstruing Narration through Space: A Comparative Study of
-> *The Iliad* and *The Silence of the Girls*." Distant Reading, 2025.
-
 ## Author
 
 Junyang Wang
