@@ -57,14 +57,60 @@ figures/revised/      Cleaner revised movement figures
 - [Read the data documentation](data/README.md)
 - [Read the figure documentation](figures/README.md)
 
-## Selected figure
+## Findings and visualizations
 
-![Briseis's movement in The Iliad](figures/revised/fig_3_3_briseis_movement_iliad_revised.png)
+### 1. Generating female space: the tent
 
-In the *Iliad*, Briseis appears at only a small number of spatial nodes, all within
-the camp and largely defined by male ownership. The movement visualizations in the
-paper compare this limited spatial visibility with the more differentiated camp
-interior narrated in Barker's novel.
+The first part of the project asks whether Barker's `tent` becomes a more specific
+and stable spatial node than the broader camp vocabulary of the *Iliad*.
+
+![UMAP comparison of semantic clusters around tent](figures/original/fig_2_1_tent_umap_iliad_vs_sog.png)
+
+The semantic comparison places `tent` near shore-side stationing and residence in
+the *Iliad*, while Barker's novel draws it toward bodily experience, care, and the
+hospital.
+
+![Lexical dispersion of tent and battlefield](figures/original/fig_2_2_lexical_dispersion_tent_battlefield.jpeg)
+
+The dispersion plot shows that `tent` is concentrated in particular narrative
+segments of *The Silence of the Girls*, rather than functioning only as a general
+camp term.
+
+![Noun collocations around tent in The Silence of the Girls](figures/original/fig_2_3_tent_collocation_wordcloud.jpeg)
+
+Nouns surrounding `tent` connect the location to healing, nursing, blood, herbs,
+bandages, and other forms of embodied labour. Together, these results support the
+paper's argument that Barker generates a differentiated female space inside the
+Greek camp.
+
+### 2. Reorganizing Briseis's mobility
+
+| *The Silence of the Girls* | *The Iliad* |
+| --- | --- |
+| ![Briseis's movement in The Silence of the Girls](figures/original/fig_3_1_briseis_movement_sog.png) | ![Briseis's movement in The Iliad](figures/revised/fig_3_3_briseis_movement_iliad_revised.png) |
+
+In Barker's novel, Briseis moves through a more differentiated set of camp spaces,
+including spaces of care, storage, laundry, weaving, and women's collective life.
+In the *Iliad*, she appears at only a small number of nodes largely defined by male
+ownership. The contrast makes both her mobility and her confinement visible.
+
+### 3. Repositioning Achilles
+
+| *The Silence of the Girls* | *The Iliad* |
+| --- | --- |
+| ![Achilles's movement in The Silence of the Girls](figures/original/fig_3_4_achilles_movement_sog.png) | ![Achilles's movement in The Iliad](figures/revised/fig_3_6_achilles_movement_iliad_revised.png) |
+
+Achilles's trajectory also changes across the two texts. The *Iliad* gives greater
+proportional visibility to battlefield and frontline spaces. Barker returns him
+more frequently to the camp and to mundane, embodied settings, while also showing
+that he rarely enters many functionally differentiated spaces associated with
+women's labour.
+
+For a label-focused view of Achilles's trajectory in Barker's novel, see the
+[supplementary movement figure](figures/original/fig_3_5_achilles_movement_sog_supplementary.png).
+
+The complete argument, including the manual KWIC classification reproduced as
+Figure 2.4, is available in the [course paper](docs/reconstruing_narration_through_space_2025.pdf).
 
 ## Current status and limitations
 
