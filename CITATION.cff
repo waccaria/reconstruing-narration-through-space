@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the course paper."
+title: "Reconstruing Narration through Space: A Comparative Study of The Iliad and The Silence of the Girls"
+type: article
+authors:
+  - family-names: Wang
+    given-names: Junyang
+year: 2025
+url: "https://github.com/waccaria/reconstruing-narration-through-space"

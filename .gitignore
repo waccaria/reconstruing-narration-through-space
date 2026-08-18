@@ -1,0 +1,17 @@
+# Copyrighted source texts - local analysis only
+data/raw_private/
+
+# Original annotation workbooks contain substantial source-text excerpts
+data/achilles_iliad_spatial_mentions.xlsx
+data/briseis_iliad_spatial_mentions.xlsx
+data/briseis_sog_annotated_spaces.xlsx
+
+# Exploratory outputs are preserved locally but are not part of the paper release
+figures/exploratory/
+
+# Local and temporary files
+tmp/
+.DS_Store
+Thumbs.db
+*.Rhistory
+*.RData
